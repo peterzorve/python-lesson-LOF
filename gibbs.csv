@@ -1,0 +1,15 @@
+,file_name,gibbs_energy,kJmol-1
+0,10_pyramid_(MgCl2)27_(AlCl3)14.log,-52983.573858,-52.98
+1,11_slab_(MgCl2)28_(AlCl3)14.log,-54104.302421,-54.1
+2,12_pipe_(MgCl2)29_(AlCl3)16.log,-58471.428956,-58.47
+3,13_diamond_(MgCl2)34_(AlCl3)16.log,-64074.819104,-64.07
+4,14_quadrangle_(MgCl2)36_(AlCl3)16.log,-66316.189588,-66.32
+5,1_quadrangle_(MgCl2)4_(AlCl3)6.log,-14222.154238,-14.22
+6,2_pyramid_(MgCl2)5_(AlCl3)7.log,-16966.034549,-16.97
+7,3_diamond_(MgCl2)7_(AlCl3)8.log,-20830.67299,-20.83
+8,4_pipe_(MgCl2)9_(AlCl3)8.log,-23072.035636,-23.07
+9,5_diamond_(MgCl2)14_(AlCl3)10.log,-31921.879449,-31.92
+10,6_quadrangle_(MgCl2)16_(AlCl3)10.log,-34163.195585,-34.16
+11,7_pipe_(MgCl2)19_(AlCl3)12.log,-40771.745339,-40.77
+12,8_pipe_(MgCl2)24_(AlCl3)14.log,-49621.577934,-49.62
+13,9_quaqdrangle_(MgCl2)25_(AlCl3)14.log,-50742.283348,-50.74
